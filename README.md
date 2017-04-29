@@ -1,4 +1,4 @@
-<font size="6">Markov Chain</font>
+<font size="2">Markov Chain</font>
 
 On this project with the use of Markov chains we are going to try to solve the following problems.
 
