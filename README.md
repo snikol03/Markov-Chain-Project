@@ -1,1 +1,1 @@
-# Markov-Chain-Project
+# Markov Chain Project
