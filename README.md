@@ -2,11 +2,11 @@
 
 On this project with the use of Markov chains we are going to try to solve the following problems.
 
-Thema1: Identification of generalized classes of protein molecules.
+_Thema1:_ Identification of generalized classes of protein molecules.
 
-Thema2: Identification of proteins with local "abnormal" amino acid composition
+_Thema2:_ Identification of proteins with local "abnormal" amino acid composition
 
-Thema3: Classification of proteins in families
+_Thema3:_ Classification of proteins in families
 
 This project was created to check the results of the Markov chain project and compare them with other existing program results.
 
@@ -28,18 +28,18 @@ After the download and installation you can run the program with the terminal or
 
 To execute this project run the following command in the terminal depending on the perpose you want.
 
-Thema1: Identification of generalized classes of protein molecules run
+_Thema1:_ Identification of generalized classes of protein molecules run
 
 perl thema1.pl
 
 When this command is executed you will be asked to insert the path of the positive and negative file. Then a menu will appear asking you to select directory. At this point there are three options: 1.DNA, 2.RNA and 3.Proteins. The input must be the number of the choice. After that the user have to insert the Markov chain window size. This are the general
 
-Thema2: Identification of proteins with local "abnormal" amino acid
+_Thema2:_ Identification of proteins with local "abnormal" amino acid
 composition run
 
 perl thema2.pl
 
-Thema3: Classification of proteins in families run
+_Thema3:_ Classification of proteins in families run
 
 perl thema3.pl
 
