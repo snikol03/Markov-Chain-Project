@@ -60,11 +60,11 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 
 ## Authors
 
-Stelios Nikolaou, Computer Science student, University of Cyprus
-Kyriakos Papa, Electrical Engineering student, University of Cyprus
-Sotiroula Afxenti, Computer Science student, University of Cyprus
-Andria Nicolaou, Electrical Engineering student, University of Cyprus
-Alexandra Crysanthou, Mechanical Engineering student, University of Cyprus
+-Stelios Nikolaou, Computer Science student, University of Cyprus
+-Kyriakos Papa, Electrical Engineering student, University of Cyprus
+-Sotiroula Afxenti, Computer Science student, University of Cyprus
+-Andria Nicolaou, Electrical Engineering student, University of Cyprus
+-Alexandra Crysanthou, Mechanical Engineering student, University of Cyprus
 
 ## License
 
