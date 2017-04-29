@@ -1,4 +1,4 @@
-<font size="2">Markov Chain</font>
+# Markov Chain
 
 On this project with the use of Markov chains we are going to try to solve the following problems.
 
@@ -10,13 +10,13 @@ Thema3: Classification of proteins in families
 
 This project was created to check the results of the Markov chain project and compare them with other existing program results.
 
-Getting Started
+## Getting Started
 
 You can download this project from the link below:
 
 https://github.com/snikol03/Markov-Chain-Project.git
 
-Prerequisites
+## Prerequisites
 
 To run this project you need to install perl. You can download and install perl from the following link.
 
@@ -24,7 +24,7 @@ https://www.perl.org/get.html
 
 After the download and installation you can run the program with the terminal or the command line.
 
-Running the tests
+## Running the tests
 
 To execute this project run the following command in the terminal depending on the perpose you want.
 
@@ -45,20 +45,20 @@ perl thema3.pl
 
 
 For each Thema you can select a combination of the following three modes: 
-Self Consistency
-Cross Validation
-External Validation
+ - Self Consistency
+ - Cross Validation
+ - External Validation
 
 
-Contributing
+## Contributing
 
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-Versioning
+## Versioning
 
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
-Authors
+## Authors
 
 Stelios Nikolaou, Computer Science student, University of Cyprus
 Kyriakos Papa, Electrical Engineering student, University of Cyprus
@@ -66,6 +66,6 @@ Sotiroula Afxenti, Computer Science student, University of Cyprus
 Andria Nicolaou, Electrical Engineering student, University of Cyprus
 Alexandra Crysanthou, Mechanical Engineering student, University of Cyprus
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
