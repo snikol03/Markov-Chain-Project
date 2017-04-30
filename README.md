@@ -2,11 +2,11 @@
 
 In this project our aim was to use Markov Chain model to classify varius sequences. This project was assigned to us in the course of BIO 331 - Computational and Systems Biology.
 
-_Thema1:_ Identification of generalized classes of protein molecules.
+_Subject 1:_ Identification of generalized classes of protein molecules.
 
-_Thema2:_ Identification of proteins with local "abnormal" amino acid composition
+_Subject 2:_ Identification of proteins with local "abnormal" amino acid composition
 
-_Thema3:_ Classification of proteins in families
+_Subject 3:_ Classification of proteins in families
 
 This project was created to check the results of the Markov chain project and compare them with other existing program results.
 
@@ -28,18 +28,18 @@ After the download and installation you can run the program with the terminal or
 
 To execute this project run the following command in the terminal depending on the perpose you want.
 
-_Thema1:_ Identification of generalized classes of protein molecules run
+_Subject 1:_ Identification of generalized classes of protein molecules run
 
 `perl thema1.pl`
 
 When this command is executed you will be asked to insert the path of the positive and negative file. Then a menu will appear asking you to select directory. At this point there are three options: 1.DNA, 2.RNA and 3.Proteins. The input must be the number of the choice. After that the user have to insert the Markov chain window size. This are the general
 
-_Thema2:_ Identification of proteins with local "abnormal" amino acid
+_Subject 2:_ Identification of proteins with local "abnormal" amino acid
 composition run
 
 `perl thema2.pl`
 
-_Thema3:_ Classification of proteins in families run
+_Subject 3:_ Classification of proteins in families run
 
 `perl thema3.pl`
 
