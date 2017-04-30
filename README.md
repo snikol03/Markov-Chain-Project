@@ -50,7 +50,7 @@ _Subject 3:_ Classification of proteins in families run
 
 When this command is executed you will be asked to insert the path for each family files. When all family files are inserted the user have to write "end" to stop reading. Then a menu will appear asking you to select dictionary. At this point there are three options: 1.DNA, 2.RNA and 3.Proteins. The input must be the number of the choice. After that the user have to insert the Markov chain window size. Then an other menu will appear and the user have to choose with a number the tests to run. Depending from the answer the program will need some inputs, except self consistency. For cross validation test the user have to write the number of groups to be devided to. For external data the user have to write an external file for each family.
 
-For each Thema you can select a combination of the following three modes: 
+For each subject you can select a combination of the following three modes: 
  - Self Consistency
  - Cross Validation
  - External Validation
