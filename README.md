@@ -50,21 +50,13 @@ For each Thema you can select a combination of the following three modes:
  - External Validation
 
 
-## Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
 ## Authors
 
-- Stelios Nikolaou, Computer Science student, University of Cyprus
+- Alexandra Crysanthou, Mechanical Engineering student, University of Cyprus
+- Andria Nicolaou, Electrical Engineering student, University of Cyprus
 - Kyriakos Papa, Electrical Engineering student, University of Cyprus
 - Sotiroula Afxenti, Computer Science student, University of Cyprus
-- Andria Nicolaou, Electrical Engineering student, University of Cyprus
-- Alexandra Crysanthou, Mechanical Engineering student, University of Cyprus
+- Stelios Nikolaou, Computer Science student, University of Cyprus
 
 ## License
 
