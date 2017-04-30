@@ -24,6 +24,9 @@ https://www.perl.org/get.html
 
 After the download and installation you can run the program with the terminal or the command line.
 
+#### NOTE:
+The .pl file you would like to execute should be in the same folder with the project.pm file.
+
 ## Running the tests
 
 To execute this project run the following command in the terminal depending on the perpose you want.
