@@ -30,18 +30,18 @@ To execute this project run the following command in the terminal depending on t
 
 _Thema1:_ Identification of generalized classes of protein molecules run
 
-'perl thema1.pl'
+`perl thema1.pl`
 
 When this command is executed you will be asked to insert the path of the positive and negative file. Then a menu will appear asking you to select directory. At this point there are three options: 1.DNA, 2.RNA and 3.Proteins. The input must be the number of the choice. After that the user have to insert the Markov chain window size. This are the general
 
 _Thema2:_ Identification of proteins with local "abnormal" amino acid
 composition run
 
-'perl thema2.pl'
+`perl thema2.pl`
 
 _Thema3:_ Classification of proteins in families run
 
-'perl thema3.pl'
+`perl thema3.pl`
 
 
 For each Thema you can select a combination of the following three modes: 
