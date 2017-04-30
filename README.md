@@ -1,6 +1,6 @@
 # Markov Chain
 
-On this project with the use of Markov chains we are going to try to solve the following problems.
+In this project our aim was to use Markov Chain model to classify varius sequences. This project was assigned to us in the course of BIO 331 - Computational and Systems Biology.
 
 _Thema1:_ Identification of generalized classes of protein molecules.
 
